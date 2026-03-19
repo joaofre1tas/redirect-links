@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/ppf", "destination": "/go.html?url=https://ppf.desaeng.com.br" },
-    { "source": "/metododof", "destination": "/go.html?url=https://metododof.desaeng.com.br" }
+    { "source": "/ppf", "destination": "/ppf.html" },
+    { "source": "/metododof", "destination": "/metododof.html" }
   ]
 }
