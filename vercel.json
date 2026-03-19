@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/ppf", "destination": "https://ppf.desaeng.com.br", "permanent": false },
+    { "source": "/metododof", "destination": "https://metododof.desaeng.com.br", "permanent": false }
+  ]
+}
